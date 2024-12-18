@@ -22,22 +22,19 @@ Bridge technical implementation and design aesthetics
 Approach programming challenges with innovative, cross-disciplinary thinking
 Create visually compelling and technically robust applications
 
-Feel Free to reach out to me
-![image](https://github.com/user-attachments/assets/baa3ec90-ede9-4f6b-a7ac-27c41cb430d0)
-
-
+<hr>
 🛠️ Languages
 JavaScript
 Python
 HTML5
 CSS3
-
+<hr>
 📚 Libraries & Frameworks
 React
 Redux
 Flask
 Express.js
-
+<hr>
 🗄️ Databases & ORMs
 SQLAlchemy
 SQLite

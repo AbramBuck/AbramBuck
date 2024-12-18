@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I bring a robust technical foundation complemented by over a decade of professional creative experience. My background in design and visual arts provides a unique perspective to software development, enabling me to approach programming challenges with both technical precision and creative problem-solving.
+
+My diverse skill set enables me to:
+Develop comprehensive software solutions with a keen eye for user experience
+Bridge technical implementation and design aesthetics
+Approach programming challenges with innovative, cross-disciplinary thinking
+Create visually compelling and technically robust applications
+
+Feel Free to reach out to me
+![image](https://github.com/user-attachments/assets/baa3ec90-ede9-4f6b-a7ac-27c41cb430d0)
+
+
+🛠️ Languages
+JavaScript
+Python
+HTML5
+CSS3
+
+📚 Libraries & Frameworks
+React
+Redux
+Flask
+Express.js
+
+🗄️ Databases & ORMs
+SQLAlchemy
+SQLite
+PostgreSQL
+Sequelize
+
+🔧 Other Tools
+NodeJS

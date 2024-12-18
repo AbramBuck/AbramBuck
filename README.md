@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I bring a robust technical foundation complemented by over a decade of professional creative experience. My background in design and visual arts provides a unique perspective to software development, enabling me to approach programming challenges with both technical precision and creative problem-solving.
+I am a Software Engineer with a robust technical foundation complemented by over a decade of professional creative experience. My background in design and visual arts provides a unique perspective to software development, enabling me to approach programming challenges with both technical precision and creative problem-solving.
 
 My diverse skill set enables me to:
 Develop comprehensive software solutions with a keen eye for user experience
